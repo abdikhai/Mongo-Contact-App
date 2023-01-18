@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "63c7d7e86225601b94eea021"
+  },
+  "nama": "Khairul Abdi",
+  "nohp": "082323239231",
+  "email": "abdi@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c7faa8ed07d7109013b9bd"
+  },
+  "nama": "Faisal",
+  "email": "faisal@gmail.com",
+  "nohp": "082234758720",
+  "__v": 0
+}]
